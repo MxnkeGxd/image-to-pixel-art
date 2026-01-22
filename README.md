@@ -1,4 +1,4 @@
-📄 README.md (Pixel Art Generator using OpenCV)
+
 # Pixel Art Generator 🎨
 
 A simple Python project that converts normal images into pixel-art style images using OpenCV and K-Means clustering.  
